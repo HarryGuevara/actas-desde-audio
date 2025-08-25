@@ -1,5 +1,9 @@
 # Actas desde audio (Python + Whisper + DOCX)
 
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-working-success)
+
 Convierte **audios de reuniones** en **actas formales editables** en minutos.
 
 ## 🚀 Flujo
@@ -11,15 +15,3 @@ Convierte **audios de reuniones** en **actas formales editables** en minutos.
 - Paquetes:
   ```bash
   pip install -r requirements.txt
-  ```
-
-## ▶️ Uso rápido
-1. Coloca tu audio en `data/audio/reunion.m4a`
-2. Ejecuta:
-   ```bash
-   python main.py
-   ```
-3. Obtendrás:
-   - data/outputs/transcripcion.txt
-   - data/outputs/transcripcion_corregida.txt
-   - data/outputs/ACTA_15.docx
