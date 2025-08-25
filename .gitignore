@@ -5,7 +5,7 @@ env/
 venv/
 data/outputs/
 *.docx
-*.txt
+data/outputs/*.txt
 .DS_Store
 Thumbs.db
 .ipynb_checkpoints/
