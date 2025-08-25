@@ -6,8 +6,11 @@
 
 Convierte **audios de reuniones** en **actas formales editables** en minutos.
 
+
 ## 🚀 Flujo
 1. Audio (.m4a/.mp3) → 2. Transcripción (Whisper) → 3. Limpieza → 4. DOCX
+
+![Flujo del proyecto](docs/flujo.png)
 
 ## 📦 Requisitos
 - Python 3.10+
